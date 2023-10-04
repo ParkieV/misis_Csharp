@@ -1,0 +1,12 @@
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_3\Structures\bin\Debug\net6.0\Structures.deps.json
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_3\Structures\bin\Debug\net6.0\Structures.dll
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_3\Structures\bin\Debug\net6.0\Structures.pdb
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_3\Structures\obj\Debug\net6.0\Structures.csproj.AssemblyReference.cache
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_3\Structures\obj\Debug\net6.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_3\Structures\obj\Debug\net6.0\Structures.AssemblyInfoInputs.cache
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_3\Structures\obj\Debug\net6.0\Structures.AssemblyInfo.cs
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_3\Structures\obj\Debug\net6.0\Structures.csproj.CoreCompileInputs.cache
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_3\Structures\obj\Debug\net6.0\Structures.dll
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_3\Structures\obj\Debug\net6.0\refint\Structures.dll
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_3\Structures\obj\Debug\net6.0\Structures.pdb
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_3\Structures\obj\Debug\net6.0\ref\Structures.dll

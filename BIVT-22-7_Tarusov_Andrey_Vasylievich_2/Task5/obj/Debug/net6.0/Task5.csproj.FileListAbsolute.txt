@@ -1,0 +1,15 @@
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\bin\Debug\net6.0\Task5.exe
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\bin\Debug\net6.0\Task5.deps.json
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\bin\Debug\net6.0\Task5.runtimeconfig.json
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\bin\Debug\net6.0\Task5.dll
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\bin\Debug\net6.0\Task5.pdb
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\obj\Debug\net6.0\Task5.csproj.AssemblyReference.cache
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\obj\Debug\net6.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\obj\Debug\net6.0\Task5.AssemblyInfoInputs.cache
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\obj\Debug\net6.0\Task5.AssemblyInfo.cs
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\obj\Debug\net6.0\Task5.csproj.CoreCompileInputs.cache
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\obj\Debug\net6.0\Task5.dll
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\obj\Debug\net6.0\refint\Task5.dll
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\obj\Debug\net6.0\Task5.pdb
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\obj\Debug\net6.0\Task5.genruntimeconfig.cache
+C:\projects\С#\BIVT-22-7_Tarusov_Andrey_Vasylievich_2\Task5\obj\Debug\net6.0\ref\Task5.dll

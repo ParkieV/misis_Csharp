@@ -1,0 +1,18 @@
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\bin\Debug\net6.0-windows7.0\Задача 1.1.exe
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\bin\Debug\net6.0-windows7.0\Задача 1.1.deps.json
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\bin\Debug\net6.0-windows7.0\Задача 1.1.runtimeconfig.json
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\bin\Debug\net6.0-windows7.0\Задача 1.1.dll
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\bin\Debug\net6.0-windows7.0\Задача 1.1.pdb
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Задача 1.1.csproj.AssemblyReference.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Задача_1._1.Form1.resources
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Задача_1._1.Form2.resources
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Задача 1.1.csproj.GenerateResource.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Задача 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Задача 1.1.AssemblyInfoInputs.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Задача 1.1.AssemblyInfo.cs
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Задача 1.1.csproj.CoreCompileInputs.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Задача 1.1.dll
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\refint\Задача 1.1.dll
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Задача 1.1.pdb
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Задача 1.1.genruntimeconfig.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\ref\Задача 1.1.dll

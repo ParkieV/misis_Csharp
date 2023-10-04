@@ -1,0 +1,16 @@
+C:\projects\С#\liza\Tic-tac-toe\obj\Debug\Tic-tac-toe.csproj.AssemblyReference.cache
+C:\projects\С#\liza\Tic-tac-toe\obj\Debug\Tic-tac-toe.csproj.SuggestedBindingRedirects.cache
+C:\projects\С#\liza\Tic-tac-toe\obj\Debug\Tic_tac_toe.Properties.Resources.resources
+C:\projects\С#\liza\Tic-tac-toe\obj\Debug\Tic-tac-toe.csproj.GenerateResource.cache
+C:\projects\С#\liza\Tic-tac-toe\obj\Debug\Tic-tac-toe.csproj.CoreCompileInputs.cache
+C:\projects\С#\liza\Tic-tac-toe\bin\Debug\Tic-tac-toe.exe.config
+C:\projects\С#\liza\Tic-tac-toe\bin\Debug\Tic-tac-toe.exe
+C:\projects\С#\liza\Tic-tac-toe\bin\Debug\Tic-tac-toe.pdb
+C:\projects\С#\liza\Tic-tac-toe\obj\Debug\Tic_tac_toe.Form1.resources
+C:\projects\С#\liza\Tic-tac-toe\obj\Debug\Tic-tac-toe.exe
+C:\projects\С#\liza\Tic-tac-toe\obj\Debug\Tic-tac-toe.pdb
+C:\projects\С#\liza\Tic-tac-toe\obj\Debug\Tic_tac_toe.Tic_tac_toe3x3.resources
+C:\projects\С#\liza\Tic-tac-toe\obj\Debug\Tic_tac_toe.Message1.resources
+C:\projects\С#\liza\Tic-tac-toe\obj\Debug\Tic_tac_toe.Message2.resources
+C:\projects\С#\liza\Tic-tac-toe\obj\Debug\Tic_tac_toe.MessageDraw.resources
+C:\projects\С#\liza\Tic-tac-toe\obj\Debug\Tic_tac_toe.Tic_tac_toe10x10.resources

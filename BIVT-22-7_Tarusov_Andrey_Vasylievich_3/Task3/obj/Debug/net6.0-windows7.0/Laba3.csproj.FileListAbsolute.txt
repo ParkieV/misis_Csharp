@@ -1,0 +1,57 @@
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\bin\Debug\net6.0-windows7.0\Laba3.exe
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\bin\Debug\net6.0-windows7.0\Laba3.deps.json
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\bin\Debug\net6.0-windows7.0\Laba3.runtimeconfig.json
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\bin\Debug\net6.0-windows7.0\Laba3.dll
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\bin\Debug\net6.0-windows7.0\Laba3.pdb
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Laba3.csproj.AssemblyReference.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Задача_1._1.Form1.resources
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Задача_1._1.Form2.resources
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Laba3.csproj.GenerateResource.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Laba3.AssemblyInfoInputs.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Laba3.AssemblyInfo.cs
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Laba3.dll
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\refint\Laba3.dll
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Laba3.pdb
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\Laba3.genruntimeconfig.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Задача 1.1\obj\Debug\net6.0-windows7.0\ref\Laba3.dll
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\bin\Debug\net6.0-windows7.0\Laba3.exe
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\bin\Debug\net6.0-windows7.0\Laba3.deps.json
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\bin\Debug\net6.0-windows7.0\Laba3.runtimeconfig.json
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\bin\Debug\net6.0-windows7.0\Laba3.dll
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\bin\Debug\net6.0-windows7.0\Laba3.pdb
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\obj\Debug\net6.0-windows7.0\Laba3.csproj.AssemblyReference.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\obj\Debug\net6.0-windows7.0\Задача_1._1.Form1.resources
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\obj\Debug\net6.0-windows7.0\Задача_1._1.Form2.resources
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\obj\Debug\net6.0-windows7.0\Laba3.csproj.GenerateResource.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\obj\Debug\net6.0-windows7.0\Laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\obj\Debug\net6.0-windows7.0\Laba3.AssemblyInfoInputs.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\obj\Debug\net6.0-windows7.0\Laba3.AssemblyInfo.cs
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\obj\Debug\net6.0-windows7.0\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\obj\Debug\net6.0-windows7.0\Laba3.dll
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\obj\Debug\net6.0-windows7.0\refint\Laba3.dll
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\obj\Debug\net6.0-windows7.0\Laba3.pdb
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\obj\Debug\net6.0-windows7.0\Laba3.genruntimeconfig.cache
+C:\Users\koval\source\repos\БИВТ_22-7_Коваленко Александр Андреевич_Лаба 3\Laba3\obj\Debug\net6.0-windows7.0\ref\Laba3.dll
+C:\projects\С#\Laba3\bin\Debug\net6.0-windows7.0\Laba3.exe
+C:\projects\С#\Laba3\bin\Debug\net6.0-windows7.0\Laba3.deps.json
+C:\projects\С#\Laba3\bin\Debug\net6.0-windows7.0\Laba3.runtimeconfig.json
+C:\projects\С#\Laba3\bin\Debug\net6.0-windows7.0\Laba3.dll
+C:\projects\С#\Laba3\bin\Debug\net6.0-windows7.0\Laba3.pdb
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\Laba3.csproj.AssemblyReference.cache
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\Задача_1._1.Form1.resources
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\Задача_1._1.Form2.resources
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\Laba3.csproj.GenerateResource.cache
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\Laba3.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\Laba3.AssemblyInfoInputs.cache
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\Laba3.AssemblyInfo.cs
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\Laba3.csproj.CoreCompileInputs.cache
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\Laba3.dll
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\refint\Laba3.dll
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\Laba3.pdb
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\Laba3.genruntimeconfig.cache
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\ref\Laba3.dll
+C:\projects\С#\Laba3\bin\Debug\net6.0-windows7.0\Structures.dll
+C:\projects\С#\Laba3\bin\Debug\net6.0-windows7.0\Structures.pdb
+C:\projects\С#\Laba3\obj\Debug\net6.0-windows7.0\Laba3.csproj.CopyComplete
